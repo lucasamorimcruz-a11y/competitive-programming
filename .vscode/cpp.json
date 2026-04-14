@@ -1,0 +1,15 @@
+{
+    "Competitive Programming Template": {
+        "prefix": "cp",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "#define int int64_t",
+            "",
+            "int32_t main(){",
+            "    $0",
+            "}"
+        ],
+        "description": "C++ template for competitive programming"
+    }
+}
